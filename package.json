@@ -1,0 +1,19 @@
+{
+  "name": "day13",
+  "version": "1.0.0",
+  "description": "Using ExpressJS or the native Http module, write a server that takes in",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "get",
+    "post"
+  ],
+  "author": "preshyjones",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
